@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="family_guy_pokemon.Pokemon.Pokemons" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAACBAAAAAAAAAEQQCEAABEAAAAAAI=</HashCode>
+      <FileName>Pokemon\Pokemons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="family_guy_pokemon.Pokemon.Peter" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemon\Peter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="family_guy_pokemon.Pokemon.Cleveland" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemon\Cleveland.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="family_guy_pokemon.Pokemon.Glen" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemon\Glen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="family_guy_pokemon.Pokemon.Brian" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemon\Brian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="family_guy_pokemon.Pokemon.Joe" Collapsed="true">
+    <Position X="3.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pokemon\Joe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

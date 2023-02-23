@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "family_guy_pokemon/1.0.0": {
+        "runtime": {
+          "family_guy_pokemon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "family_guy_pokemon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
